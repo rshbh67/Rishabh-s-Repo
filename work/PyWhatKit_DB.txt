@@ -1,0 +1,5 @@
+Date: 15/4/2024
+Time: 15:56
+Phone Number: +918579878939
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
